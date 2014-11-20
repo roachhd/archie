@@ -12,8 +12,11 @@ url:              /archie
 
 # Emoji please
 gems:
-  - jemoji
-  - jekyll-sitemap 
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
+
 
 # Owner/author information
 owner:
