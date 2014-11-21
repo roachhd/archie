@@ -4,7 +4,7 @@ title: "Asia-Pacific Shepperton 204.5"
 description: "Ironman Triathlon Workd Championship Shepperton 2014"
 headline: "Ironman Triathlon World Championship Shepperton 2014"
 category: [Shepperton 2014]
-tags: [Ironman Triathlon, Shepperton, Results, ]
+tags: [Ironman Triathlon, Shepperton, Results]
 imagefeature: false
 comments: false
 share: true
