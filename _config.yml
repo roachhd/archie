@@ -22,9 +22,9 @@ gems:
 owner:
   name:           Adrian Ball
   avatar:         http://test.roachhaus.com/cv/img/katie11.png
-  email:          katie@roachhd.com
+  email:          archie@roachhd.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    "Coded with &#10084; by <a href="http://katieball.me" target="_blank">Katie Ball</a> in Melbourne."
+  description:    ""
 # Social networking links used in footer. Update and remove as you like.
   twitter:        mektball
   facebook:       roachhd 
