@@ -20,12 +20,12 @@ The name "Ironman Triathlon" is also associated with the original Ironman triath
 
 
 <figure>
-	<img src="http://test.roachhaus.com/cv/img/katie11.png" alt="Katie Ball">
-	<figcaption>A picture of me</figcaption>
+	<img src="http://resources1.news.com.au/images/2012/03/25/1226309/519661-melbourne-ironman.jpg" alt="Melbourne Ironman">
+	<figcaption>Ironman Aisa-Pacific</figcaption>
 </figure>
 
 <figure class="third">
-	<a href="http://vic.tri-alliance.com.au/files/Glory-awaits-at-the-finish-line.jpg"><img src="{{ site.url }}/images/about/1-001.jpg"></a>
+	<a href="http://vic.tri-alliance.com.au/files/Glory-awaits-at-the-finish-line.jpg"><img src="http://resources1.news.com.au/images/2012/03/25/1226309/519661-melbourne-ironman.jpg"></a>
 	<a href="{{ site.url }}/images/about/2.jpg"><img src="{{ site.url }}/images/about/2-001.jpg"></a>
 	<a href="{{ site.url }}/images/about/3.jpg"><img src="{{ site.url }}/images/about/3-001.jpg"></a>
 </figure>
