@@ -1,6 +1,6 @@
 title:            ARCHIE
 description:      "230KM to Kona"
-logo:             logo.png
+logo:             http://youngtri.files.wordpress.com/2013/02/imlogo.jpg
 disqus_shortname: 
 share:            true
 dropcap:          true
@@ -24,14 +24,14 @@ owner:
   avatar:         http://test.roachhaus.com/cv/img/katie11.png
   email:          katie@roachhd.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    "Coded with &#10084; in Melbourne."
+  description:    "Coded with &#10084; by <a href="http://katieball.me" target="_blank">Katie Ball</a> in Melbourne."
 # Social networking links used in footer. Update and remove as you like.
   twitter:        mektball
   facebook:       roachhd 
   github:         roachhd      
   instagram:      RoachHD
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    
 
 
 # Analytics and webmaster tools stuff goes here
