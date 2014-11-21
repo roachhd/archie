@@ -25,7 +25,7 @@ The name "Ironman Triathlon" is also associated with the original Ironman triath
 </figure>
 
 <figure class="third">
-	<a href="{{ site.url }}/images/about/1.jpg"><img src="{{ site.url }}/images/about/1-001.jpg"></a>
+	<a href="http://vic.tri-alliance.com.au/files/Glory-awaits-at-the-finish-line.jpg"><img src="{{ site.url }}/images/about/1-001.jpg"></a>
 	<a href="{{ site.url }}/images/about/2.jpg"><img src="{{ site.url }}/images/about/2-001.jpg"></a>
 	<a href="{{ site.url }}/images/about/3.jpg"><img src="{{ site.url }}/images/about/3-001.jpg"></a>
 </figure>
@@ -45,4 +45,3 @@ __Father__
 __Husband__
 __*Pa*__
 __Ironman__
-
