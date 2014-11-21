@@ -18,12 +18,6 @@ Most Ironman events have a strict time limit of 17 hours to complete the race. T
 The name "Ironman Triathlon" is also associated with the original Ironman triathlon which is now the Ironman World Championship. Held in Kailua-Kona, the world championship has been held annually in Hawaii since 1978 (with an additional race in 1982) and is preceded by a series of qualifying Ironman events. Ironman World Championships has become known for its grueling length, harsh race conditions. 
 
 
-
-<figure>
-	<img src="http://resources1.news.com.au/images/2012/03/25/1226309/519661-melbourne-ironman.jpg" alt="Melbourne Ironman">
-	<figcaption>Ironman Aisa-Pacific</figcaption>
-</figure>
-
 <figure class="third">
 	<a href="http://vic.tri-alliance.com.au/files/Glory-awaits-at-the-finish-line.jpg"><img src="http://vic.tri-alliance.com.au/files/Glory-awaits-at-the-finish-line.jpg"></a>
 	<a href="{{ site.url }}/images/about/2.jpg"><img src="{{ site.url }}/images/about/2-001.jpg"></a>
