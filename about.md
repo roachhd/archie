@@ -5,7 +5,7 @@ title: About Ironman Triathlon
 imagefeature: false
 ---
 <figure>
-  <img src="http://www.ironman.com/~/media/7def5ca4c188482bb8f98c509cdc3544/1403melbourne.jpg?w=740&h=370&c=1" alt="Hossain Mohammad Faysal">
+  <img src="http://www.ironman.com/~/media/7def5ca4c188482bb8f98c509cdc3544/1403melbourne.jpg?w=740&h=370&c=1" alt="Ironman Melbourne Finish Line">
   <figcaption>Ironman Melbourne Finish Line</figcaption>
 </figure> 
 
