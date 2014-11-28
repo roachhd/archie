@@ -13,7 +13,7 @@ share: true
 
 [Source](http://www.ironman.com/triathlon/events/asiapac/ironman/western-australia/results.aspx?rd=20121209&race=westernaustralia&bidid=116&detail=1 "Permalink to IRONMAN Western Australia Results - IRONMAN.com | Official Site of IRONMAN, IRONMAN 70.3, 5i50, Iron Girl and IRONKIDS | Triathlon Races | Official IRONMAN Merchandise")
 
-# IRONMAN Western Australia Results - IRONMAN.com | Official Site of IRONMAN, IRONMAN 70.3, 5i50, Iron Girl and IRONKIDS | Triathlon Races | Official IRONMAN Merchandise
+###### IRONMAN Western Australia Results - IRONMAN.com | Official Site of IRONMAN, IRONMAN 70.3, 5i50, Iron Girl and IRONKIDS | Triathlon Races | Official IRONMAN Merchandise
 
 SWIM DETAILS | Division Rank: 22
 
@@ -40,8 +40,6 @@ RUN DETAILS | Division Rank: 16
 
 
 Transition Details
-
-
 | ----- |
 | T1: Swim-to-bike |  00:05:31 |
 | T2: Bike-to-run |  00:05:02 |  
