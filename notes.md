@@ -1,6 +1,7 @@
 ---
 title: my notes
 layout: page
+permalink: /notes/
 ---
 ## Tables
 
