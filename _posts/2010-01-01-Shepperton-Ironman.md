@@ -9,29 +9,49 @@ imagefeature: false
 comments: false
 share: true
 ---
-<div class="row">
-    <div class="small-12 medium-6 columns">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo blanditiis pariatur, odio amet voluptas fugiat veniam quos ratione unde aperiam, aspernatur, dolores tempore nam.</p>
 
- <h2>Race Results</h2>
+# IRONMAN.com Athlete Tracker -
 
-<dl>
-  <dt>Swim</dt>
-    <dd>Time: 10:00 min</dd>
-    <dd>Distance: 4 KM</dd>
-  <dt>Bike</dt>
-    <dd>Time: 10:00 min</dd>
-    <dd>Distance: 105 KM</dd>
-  <dt>Run</dt>
-    <dd>Time: 10:00 min</dd>
-    <dd>Distance: 42 KM</dd>
-  <dt>Final</dt>
-    <dd>Time: 110:00 min</dd>
-    <dd>Distance: 204 KM</dd>
-</dl>
-    </div>
+Div Rank: **4**Gen Rank: **150**Overall Rank: **166**
 
-    <div class="small-12 medium-6 columns">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo blanditiis pariatur, odio amet voluptas fugiat veniam quos ratione unde aperiam, aspernatur, dolores tempore nam. Vitae facere ipsum soluta architecto quisquam doloremque facilis commodi debitis atque, porro nesciunt modi reiciendis natus beatae aperiam cupiditate expedita eum, doloribus, obcaecati excepturi autem! Perferendis quam, deserunt illum ipsa repellendus nesciunt eum qui repellat est possimus natus quod ducimus excepturi fugit, tempore, dolores maiores esse?</p>
-    </div>
-</div>
+### General Info
+
+
+| ----- |
+| BIB |  337 |
+| Division |  5559 |
+| State |  Pascoe Vale South VIC |
+| Country |  AUS |
+| Profession |   |
+
+### Race Summary
+
+
+| ----- |
+| Swim |  40:58 |
+| Bike |  2:54:20 |
+| Run |  1:31:57 |
+| Overall |  5:15:00 |
+
+## SWIM DETAILS
+
+Division Rank: 15
+
+## BIKE DETAILS
+
+Division Rank: 11
+
+## RUN DETAILS
+
+Division Rank: 4
+
+## Transition Details
+
+
+| ----- |
+| T1: SWIM-TO-BIKE |  5:36 |
+| T2: BIKE-TO-RUN |  2:09 |  
+
+
+---
+ View the [source]([Source](http://tracking.ironmanlive.com/mobileathlete.php?rid=829812111&race=ballarat70.3&bib=337&v=&beta=&1417166100 "Permalink to IRONMAN.com Athlete Tracker -"))
