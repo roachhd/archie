@@ -1,6 +1,6 @@
 ---
 title: my notes
-layout: default
+layout: page
 ---
 ## Tables
 
