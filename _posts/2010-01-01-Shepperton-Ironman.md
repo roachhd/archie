@@ -26,8 +26,6 @@ Div Rank: **4**Gen Rank: **150**Overall Rank: **166**
 
 ### Race Summary
 
-
-| ----- |
 | Swim |  40:58 |
 | Bike |  2:54:20 |
 | Run |  1:31:57 |
