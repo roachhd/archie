@@ -54,4 +54,4 @@ Division Rank: 4
 
 
 ---
- View the [source]([Source](http://tracking.ironmanlive.com/mobileathlete.php?rid=829812111&race=ballarat70.3&bib=337&v=&beta=&1417166100 "Permalink to IRONMAN.com Athlete Tracker -"))
+ View the ([Source](http://tracking.ironmanlive.com/mobileathlete.php?rid=829812111&race=ballarat70.3&bib=337&v=&beta=&1417166100 "Permalink to IRONMAN.com Athlete Tracker -")
