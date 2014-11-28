@@ -109,7 +109,8 @@ imagefeature: false
 comments: false
 share: true
 ---
-<section>
+<div class="row">
+    <div class="large-12 columns">
 ###### SWIM DETAILS | Division Rank: 22
 
 
@@ -117,7 +118,8 @@ share: true
 | Split Name | Distance        | Split Time   | Race Time    | Pace           | Division Rank | Gender Rank | Overall Rank |
 | ---------- | --------------- | ------------ | ------------ | -------------- | ------------- | ----------- | ------------ |
 | **Total**  | **3.9 km**      | **01:21:04** | **01:21:04** | **02:05/100m** | **22**        | **793**     | **964**      |
-</section>
+</div>
+</div>
 ###### BIKE DETAILS | Division Rank: 18
 
 
