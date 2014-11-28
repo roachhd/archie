@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Asia-Pacific Cairns 204.5"
-description: "Ironman Triathlon Workd Championship Cairns 2014"
+description: "Ironman Triathlon World Championship Cairns 2014"
 headline: "Ironman Triathlon World Championship Shepperton 2014"
-category: [Cairns 2014]
+category: [Cairns]
 tags: [Ironman Triathlon, Cairns, Results]
 imagefeature: false
 comments: false
