@@ -35,7 +35,7 @@ share: true
 
 
 ###### Transition Details
-| ----- |------ |
+
 | T1: Swim-to-bike |  00:05:31 |
 | T2: Bike-to-run |  00:05:02 |  
 
