@@ -36,3 +36,9 @@ share: true
 | T1: Swim-to-bike |  00:06:25 |
 | ---------------- | --------- |
 | T2: Bike-to-run |  00:05:01 |  
+
+
+
+---
+
+###### View the [source]([Source](http://www.ironman.com/triathlon/events/asiapac/ironman/melbourne/results.aspx?rd=20140323&race=melbourne&bidid=2084&detail=1 "Permalink to IRONMAN Asia-Pacific Championship Melbourne Results - IRONMAN.com | Official Site of IRONMAN")
