@@ -10,12 +10,7 @@ comments: false
 share: true
 ---
 
-
-[Source](http://www.ironman.com/triathlon/events/asiapac/ironman/western-australia/results.aspx?rd=20121209&race=westernaustralia&bidid=116&detail=1 "Permalink to IRONMAN Western Australia Results - IRONMAN.com | Official Site of IRONMAN, IRONMAN 70.3, 5i50, Iron Girl and IRONKIDS | Triathlon Races | Official IRONMAN Merchandise")
-
-###### IRONMAN Western Australia Results - IRONMAN.com | Official Site of IRONMAN, IRONMAN 70.3, 5i50, Iron Girl and IRONKIDS | Triathlon Races | Official IRONMAN Merchandise
-
-SWIM DETAILS | Division Rank: 22
+###### SWIM DETAILS | Division Rank: 22
 
 
 
@@ -23,14 +18,14 @@ SWIM DETAILS | Division Rank: 22
 | ---------- | --------------- | ------------ | ------------ | -------------- | ------------- | ----------- | ------------ |
 | **Total**  | **3.9 km**      | **01:21:04** | **01:21:04** | **02:05/100m** | **22**        | **793**     | **964**      |
 
-BIKE DETAILS | Division Rank: 18
+###### BIKE DETAILS | Division Rank: 18
 
 
 | Split Name |  Distance |  Split Time |  Race Time |  Pace |  Division Rank |  Gender Rank |  Overall Rank |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----  |
 | **Total** |  **180.2 km** |  **05:59:24** |  **07:25:59** |  **30.09 kph** |  **18** |  **667** |  **763** |
 
-RUN DETAILS | Division Rank: 16
+###### RUN DETAILS | Division Rank: 16
 
 
 | Split Name |  Distance |  Split Time |  Race Time |  Pace |  Division Rank |  Gender Rank |  Overall Rank |
@@ -39,12 +34,12 @@ RUN DETAILS | Division Rank: 16
 
 
 
-Transition Details
-| ----- |
+###### Transition Details
+| ----- |------ |
 | T1: Swim-to-bike |  00:05:31 |
 | T2: Bike-to-run |  00:05:02 |  
 
 ---
 
 ### Finisher Certificate
-![Certificate](http://m.ironman.com/finishercertificate.aspx?race=westernaustralia&rd=20121209&bid=116)
+[See the Finisher Certificate](http://m.ironman.com/finishercertificate.aspx?race=westernaustralia&rd=20121209&bid=116)
