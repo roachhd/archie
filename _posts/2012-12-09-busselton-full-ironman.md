@@ -44,3 +44,5 @@ share: true
 
 ### Finisher Certificate
 [See the Finisher Certificate](http://m.ironman.com/finishercertificate.aspx?race=westernaustralia&rd=20121209&bid=116)
+
+### [View the source]([Source](http://www.ironman.com/triathlon/events/asiapac/ironman/western-australia/results.aspx?rd=20121209&race=westernaustralia&bidid=116&detail=1 "Permalink to IRONMAN Western Australia Results - IRONMAN.com")
