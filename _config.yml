@@ -1,5 +1,5 @@
 title:            ARCHIE
-description:      "230KM to Kona"
+description:      "226KM to Kona"
 logo:             http://youngtri.files.wordpress.com/2013/02/imlogo.jpg
 disqus_shortname: 
 share:            true
@@ -20,7 +20,7 @@ gems:
 
 # Owner/author information
 owner:
-  name:           Adrian Ball
+  name:           Archie
   avatar:         http://test.roachhaus.com/cv/img/katie11.png
   email:          archie@roachhd.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
