@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Asia-Pacific Melbourne 2014"
+title: "Ironman Melb 2014"
 description: "Ironman Triathlon World Championship Melbourne 2014"
 headline: "The iconic point to point run course commences at Frankston and concludes in St. Kilda, in the shadows of the skyline of Melbourne."
 category: [Melbourne]
