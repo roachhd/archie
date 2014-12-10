@@ -16,7 +16,7 @@ With a swim start in Frankston, south of the city, the bike course incorporates 
     <div class="large-12 columns">
 
 <h3>SWIM DETAILS | Division Rank: 59</h3>
-<table>
+<table class="responsive">
 <thead>
 <tr>
 <th>Split Name</th>
@@ -50,7 +50,8 @@ With a swim start in Frankston, south of the city, the bike course incorporates 
     <div class="large-12 columns">
         
 <h3>BIKE DETAILS | Division Rank: 44</h3>
-<table>
+<table class="responsive">
+  
 <thead>
 <tr>
 <th>Split Name</th>
@@ -81,7 +82,8 @@ With a swim start in Frankston, south of the city, the bike course incorporates 
 
 
 <h3 id="run-details-division-rank-40">RUN DETAILS | Division Rank: 40</h3>
-<table>
+<table class="responsive">
+  
 <thead>
 <tr>
 <th>Split Name</th>
@@ -108,8 +110,8 @@ With a swim start in Frankston, south of the city, the bike course incorporates 
 </tbody>
 </table>
 <h3 id="transition-details">Transition Details</h3>
-<table>
-<thead>
+<table class="responsive">
+  <thead>
 <tr>
 <th>T1: Swim-to-bike</th>
 <th>00:06:25</th>
