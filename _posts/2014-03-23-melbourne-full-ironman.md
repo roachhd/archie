@@ -12,6 +12,8 @@ share: true
 
 With a swim start in Frankston, south of the city, the bike course incorporates the Eastlink Tollway, the iconic point to point run course commences at Frankston and concludes in St. Kilda, in the shadows of the skyline of Melbourne.
 
+<div class="row">
+    <div class="large-12 columns">
 
 <h3>SWIM DETAILS | Division Rank: 59</h3>
 <table>
@@ -40,7 +42,14 @@ With a swim start in Frankston, south of the city, the bike course incorporates 
 </tr>
 </tbody>
 </table>
-<h3 id="bike-details-division-rank-44">BIKE DETAILS | Division Rank: 44</h3>
+</div>
+</div>
+
+
+<div class="row">
+    <div class="large-12 columns">
+        
+<h3>BIKE DETAILS | Division Rank: 44</h3>
 <table>
 <thead>
 <tr>
@@ -67,6 +76,10 @@ With a swim start in Frankston, south of the city, the bike course incorporates 
 </tr>
 </tbody>
 </table>
+</div>
+</div>
+
+
 <h3 id="run-details-division-rank-40">RUN DETAILS | Division Rank: 40</h3>
 <table>
 <thead>
